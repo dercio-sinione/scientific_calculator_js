@@ -1,3 +1,3 @@
-# Calculadora Científica
+# Calculadora Científica (2017)
 
-Esta calculadora foi desenvolvida em javaScript no ano de 2017
+This calculator was made in javascript.
